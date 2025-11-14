@@ -4,6 +4,6 @@ This is a GBA homebrew. It requires [Devkitadvanced](https://devkitadv.sourcefor
 
 <img width="715" height="550" alt="image" src="https://github.com/user-attachments/assets/44334140-aa90-48e0-b48f-9f2dcd66b955" />
 
-![Recording 2025-11-13 at 22 59 20](https://github.com/user-attachments/assets/9b830d80-b153-44f3-b4d4-138d1982a801)
+![Recording 2025-11-14 at 00 20 59](https://github.com/user-attachments/assets/b2470c36-9af0-4dec-b028-f441477501b0)
 
 
